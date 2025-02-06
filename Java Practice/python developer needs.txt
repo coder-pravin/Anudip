@@ -1,0 +1,16 @@
+Strong working experience on Python(2.7 and 3+), AI/ML, Ansible, Django/Flask, Strong Multi-threading and Processing, OOPs Concept, Design Patterns, GIT. 
+-Strong working experience on Linux env.
+-Shell scripting experience 
+-Basic understanding of Kubernetes, Docker, and Kafka.
+-Performance tuning experience
+
+ 
+
+Good to Have:
+
+ 
+
+-HTML, CSS to develop python based UI.
+-Basic knowledge & integration with Databases (SQL or NoSQL)
+-Familiarity with the use of Jira, GitLab will be given higher weightage.
+-Cloud native development, Containerization, Helm Chart, CICD pipeline knowledge will be a big plus
